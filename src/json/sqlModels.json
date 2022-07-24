@@ -1,0 +1,19 @@
+{
+    "types":{
+        "name":{
+            "type":"String",
+            "required":true,
+            "minlength":2,
+            "maxlength":64,
+            "admin":false
+        },
+        "isvalid":{
+            "type":"Bool",
+            "required":false,
+            "minlength":1,
+            "maxlength":1,
+            "admin":true
+        }
+    },
+    "mangas":{}
+}

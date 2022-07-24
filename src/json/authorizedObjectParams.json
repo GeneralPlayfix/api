@@ -1,0 +1,11 @@
+{
+    "mangas_list":{
+        "order":["nbchapter", "title", "year"]
+    },
+    "types_list":{
+        "order":["id", "name"]
+    },
+    "types_id":{
+        "order":[]
+    }
+}
